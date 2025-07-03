@@ -1,5 +1,14 @@
-# Carbon Emission Prediction
+# Carbon Emissions Prediction - AICTE Internship
 
+![CO2 Emissions](https://img.shields.io/badge/CO2%20Emissions-Prediction-blue) 
+![Python](https://img.shields.io/badge/Python-3.8%2B-green)
+![Machine Learning](https://img.shields.io/badge/ML-Random%20Forest-orange)
 
-This project aims to predict the CO2 emission from various parameters such as country, population-specific parameters, economic indicators, land-related, energy use, etc. Our aim is to clean the data, explore it, and make a predictive analysis. Using a robust algorithm, we predict the future values of GHG emissions, mainly CO2.
+This project predicts CO2 emissions using various parameters like country demographics, economic indicators, and energy usage patterns. The model forecasts future GHG emissions with a focus on actionable policy insights.
 
+## 🔗 Model Deployment
+[Access the Deployed Model]([https://drive.google.com/file/d/1R08mOGPySz174lsbmb5J5W52HTeegP_L/view?usp=sharing](https://drive.google.com/file/d/1XKyMqlrWPEVOhpaUm_8ymDPx4tEWltbN/view?usp=sharing))
+
+## 🛠️ Installation
+```bash
+pip install numpy pandas seaborn streamlit matplotlib scikit-learn
