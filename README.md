@@ -12,3 +12,20 @@ This project predicts CO2 emissions using various parameters like country demogr
 ## 🛠️ Installation
 ```bash
 pip install numpy pandas seaborn streamlit matplotlib scikit-learn
+
+
+CO2-Emission-Prediction/
+├── data/                    # Dataset files
+│   └── emissions_data.csv
+├── notebooks/               # Jupyter notebooks
+│   ├── 1_Data_Exploration.ipynb
+│   ├── 2_Data_Preprocessing.ipynb
+│   └── 3_Model_Building.ipynb
+├── src/                     # Python scripts
+│   ├── data_cleaning.py
+│   ├── eda.py
+│   └── model_training.py
+├── app/                     # Streamlit deployment
+│   └── app.py
+├── requirements.txt         # Dependencies
+└── README.md
