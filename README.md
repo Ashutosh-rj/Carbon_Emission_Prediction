@@ -7,7 +7,7 @@
 This project predicts CO2 emissions using various parameters like country demographics, economic indicators, and energy usage patterns. The model forecasts future GHG emissions with a focus on actionable policy insights.
 
 ## 🔗 Model Deployment
-[Access the Deployed Model]([https://drive.google.com/file/d/1R08mOGPySz174lsbmb5J5W52HTeegP_L/view?usp=sharing](https://drive.google.com/file/d/1XKyMqlrWPEVOhpaUm_8ymDPx4tEWltbN/view?usp=sharing))
+[Access the Deployed Model]((https://drive.google.com/file/d/1XKyMqlrWPEVOhpaUm_8ymDPx4tEWltbN/view?usp=sharing))
 
 ## 🛠️ Installation
 ```bash
